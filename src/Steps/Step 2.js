@@ -37,7 +37,7 @@ function App() {
         setUploadProgress(progress)
       },
       // error function ...
-      function (error) {
+      (error) => {
         console.log(error)
       },
       // Upload Successful, now we can get the download URL
