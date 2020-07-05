@@ -5,7 +5,7 @@ const FileUpload = (params) => {
   const selectFile = () => {
     //todo....
   }
-  // Mark 1:  Select a file to Upload
+  // Mark 2:  Upload to firebase
   const handleUpload = () => {
     //todo....
   }
